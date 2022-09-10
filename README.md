@@ -6,3 +6,4 @@ In this webpage,the user can submit the data by clicking submit button. The ente
 Second Webpage: 
 login.php and verifyDetails.php files will a login page, which asks for crendentials like name, email Id and phone number in order to login. 
 If the credentials entered by the user matched with any user’s data in the csv, a page will be opened with a message “Hello”.
+ 
